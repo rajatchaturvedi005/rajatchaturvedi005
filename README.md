@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rajat Chaturvedi
+- 👋 Hi, I’m Rajat Chaturvedi from Bengaluru, India. 
 - 👀 I am currently working as a Data Engineer. I am an aspiring Backend Engineer.
 - I am using this platform to show case my Coding, Backend Dev, Data Engineering and DSA skills.
 
